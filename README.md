@@ -6,7 +6,7 @@ Day1
 - Regression
 
 Day2
-- Classification4
+- Classification
 
 Day3
 - Unsupervised Learning
